@@ -23,6 +23,7 @@ print('-------------------------------------------------------------------------
 print(' --- MELHOR CASO: DADOS JÁ ORDENADOS ---')
 print(f'>> Array de entrada: {dados_ordenados}')
 print('>> Complexidade: O(n)')
+print(f'>> Quantidade de trocas: {dados_ordenados}')
 print(f'Array de saída: {bubble_sort(dados_ordenados)}')
 print('--------------------------------------------------------------------------------------------------------------------------------------------')
 
